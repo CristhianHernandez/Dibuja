@@ -1,0 +1,4 @@
+#Sun Mar 26 17:32:19 CST 2017
+base.0=C\:\\Users\\Irene\\Android SANDRA\\Practica 7\\Dibuja1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Irene\\Android SANDRA\\Practica 7\\Dibuja1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
